@@ -4,7 +4,7 @@ Xinyi Li, Fengyi Song, Mina Luo, Kang Li, Liqiong Chang, Xiaojiang Chen*, Zheng 
 CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing<br>
 </big>  
   
-### 1.Datasets
+### 1. Datasets
   
 | **Year** | **Project**  |	**Descriptions** |	**Dataset** |
 |:--------:| :---------------------:|:----------------------------------------------------|:----------------------:|
