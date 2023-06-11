@@ -18,4 +18,4 @@ CARING: Towards Collaborative and Cross-domain Wi-Fi Sensing<br>
 
 ### 2. Code
 
-See meta-widar.py for the interactive demo of the paper.
+See meta-widar.py for the code of the paper.
